@@ -740,16 +740,4 @@ This project is released for academic and research use. See <code>LICENSE</code>
 
 ---
 
-## Citation
 
-If you use this code or build on this work, please cite:
-
-```bibtex
-@article{falconsdiot2026,
-  author    = {Sameera and Uddin, Md. Borhan and Raza, Arif and Liu, Qianqian and Sharif, Kashif},
-  title     = {Adaptive Post-Quantum Authentication for {SDN}-Managed Smart-Home {IoT}},
-  journal   = {IEEE Transactions on Dependable and Secure Computing},
-  year      = {2026},
-  note      = {To appear}
-}
-```
