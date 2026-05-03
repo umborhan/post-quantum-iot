@@ -79,7 +79,7 @@ The controller maps each device class to a symmetric key strength. High-risk or 
 ## Post-Quantum Key-Management Flow
 
 <p align="center">
-  <img src="./figures/pq-km.png" width="90%" alt="FALCON-SDIoT post-quantum key-management and rekeying flow"/>
+  <img src="./figures/pq-km.png" width="62%" alt="FALCON-SDIoT post-quantum key-management and rekeying flow"/>
 </p>
 
 <p align="justify">
