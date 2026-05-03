@@ -724,13 +724,7 @@ export PATH=$PATH:/path/to/proverif2.05
 proverif -version
 ```
 
----
 
-### Results differ from the paper
-
-Small differences are expected due to package versions, random seeds, hardware, and platform-specific numeric behavior. Rényi-composition DP accounting and XGBoost internals can both introduce minor variation. Fix the random seed in the notebook configuration cell and record your environment with `pip freeze > requirements_lock.txt`.
-
----
 
 ## License
 
