@@ -552,14 +552,6 @@ python --version
 pip freeze > requirements_lock.txt
 ```
 
----
-
-## Limitations
-
-<p align="justify">
-The traffic benchmark is synthetic and supports controlled analysis, but it does not replace broad real-world smart-home validation. The proof payload is larger than classical or symmetric-only authentication messages, so constrained links may require fragmentation. The edge gateway is semi-trusted in the current system model. Differential-privacy loss accumulates across federated rounds. TSAR results are scenario-bounded and should be retested under longer attacks, firmware changes, and multi-vendor traffic. The Python cryptographic interfaces are for research reproducibility and should not be used as production post-quantum cryptography.
-</p>
-
 
 
 ---
@@ -570,10 +562,4 @@ The traffic benchmark is synthetic and supports controlled analysis, but it does
 This project is released for academic and research use. See <code>LICENSE</code> for details if included in the repository.
 </p>
 
----
 
-## Acknowledgements
-
-<p align="justify">
-This repository accompanies the FALCON-SDIoT research project on adaptive post-quantum authentication for SDN-managed smart-home IoT. The implementation is designed for reproducibility, protocol analysis, visualization, and future extension toward deployable post-quantum smart-home security systems.
-</p>
