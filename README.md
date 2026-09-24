@@ -10,8 +10,6 @@
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
 > **Paper:** Adaptive Post-Quantum Authentication for SDN-Managed Smart-Home IoT  
-> **Authors:** Sameera, Uddin Md. Borhan, Arif Raza, Qianqian Liu, Kashif Sharif  
-> **Venue:** IEEE Transactions on Dependable and Secure Computing (TDSC), 2026  
 > **Project short name:** FALCON-SDIoT  
 > **Naming note:** FALCON-SDIoT is the framework name. It is unrelated to the NIST FALCON signature scheme. The manuscript uses ML-KEM (FIPS 203) for key encapsulation and ML-DSA (FIPS 204) for digital signatures.
 
